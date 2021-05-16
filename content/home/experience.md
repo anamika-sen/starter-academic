@@ -26,8 +26,8 @@ experience:
     company: IMF
     company_url: 'https://www.imf.org/en/Home'
     location: Washington, D.C.
-    date_start: 'June, 2021'
-    date_end: 'August, 2021'
+    date_start: ''
+    date_end: ''
     description: |2-
         Responsibilities include:
         
